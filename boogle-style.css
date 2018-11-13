@@ -1,0 +1,19 @@
+.header {
+  text-align: right;
+}
+
+.search {
+  margin-top: 200px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  size: 300px;
+}
